@@ -1,0 +1,15 @@
+{
+	"origin": ["#before#. #after#", "spellteller, I tried your last spell. It blew my mind.\n@thespellteller1 amazing", "spellteller, I tried your last spell, it backfired\n@thespellteller1 horrible"],
+	"before": ["My life has changed totally 🤒", "This lockdown is not going easy on me 🤒"],
+	"after": ["I need to do something. I need some magic, some spell. @thespellteller1 help"],
+	"magicline": ["Hey spellteller. #categoryline#"],
+	"categoryline": ["Well, I have a lot of things that need some magic. But how about this one today. @thespellteller1 #categories#"],
+	"categories": ["shadow", "summon", "teleport", "cure", "heal", "fly", "open", "change", "control", "water", "blast", "reveal", "slow", "moves", "murder", "explode", "detect", "emit", "damage", "torture", "counter", "enlarge", "reduce", "build", "vanish", "stop", "duplicate", "slow", "fire", "hang", "animate", "silence", "switch", "money", "love", "health", "mime", "mute", "bleed"],
+	"otherline": ["No no, don't leave me hanging in the middle 😨.\nPlease wait. @thespellteller1 #categories#"],
+	"missingcategoryline": ["That is too bad. But let me think. Oh yeah. How about this one. @thespellteller1 #categories#"],
+	"spellline": ["What will this spell do 🤔. @thespellteller1"],
+	"endline": ["Haha. Well doesn't charity begin at home 🤑.\nWill surely tell you. #end#. Anyways, @thespellteller1 thanks a million 🤗"],
+	"end": ["Well it sounds interesting", "Let me try it today", "This might even make my day", "I guess I might need more"],
+	"tryline": ["One last time. I will start over\n@thespellteller1 #categories#"],
+	"nextline": ["I would lovingly do it\n@thespellteller1 #categories#"]
+}
